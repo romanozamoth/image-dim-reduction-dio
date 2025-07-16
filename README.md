@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ou 
 
 ```bash
-pip install Pillow matplotlib
+pip install Pillow matplotlib numpy
 ``` 
 Exemplo de saída:
 ![alt text](image_example.png)
